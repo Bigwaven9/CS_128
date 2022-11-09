@@ -1,0 +1,5 @@
+[core]
+	editor = code --wait
+[user]
+	email = jiahui9@illinois.edu
+	name = Bigwave

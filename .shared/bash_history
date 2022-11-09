@@ -1,0 +1,41 @@
+cd ..
+ls
+git add .
+cd ..
+ls
+git add
+git pull
+git stash
+git pull
+cargo new huffmentree
+git add .
+git config --global core.editor "code --wait"
+git config --global -e
+git remote add origin git@github.com:Bigwaven9/cs128env.git
+git init
+git remote add origin git@github.com:Bigwaven9/cs128env.git
+git branch -M main
+git push -u origin main
+git add .
+git commit
+git config --global user.email "jiahui9@illinois.edu"
+git config --global user.name "Bigwave"
+git commit
+git ad
+git add
+git add .
+git add .
+ls
+ls -a
+cd .cargo
+ls
+cd registry/
+cd index/
+ls
+cd github.com-1ecc6299db9ec823/
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+ls
