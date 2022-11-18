@@ -1,0 +1,3 @@
+[submodule "src/HUFFMAN_TREE"]
+	path = src/HUFFMAN_TREE
+	url = https://github.com/Bigwaven9/HUFFMAN_TREE
