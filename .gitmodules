@@ -1,0 +1,3 @@
+[submodule "src/Huffman_Coding"]
+	path = src/Huffman_Coding
+	url = https://github.com/Bigwaven9/Huffman_Coding
