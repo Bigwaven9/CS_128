@@ -1,1 +1,0 @@
-# MP: Word search solver
